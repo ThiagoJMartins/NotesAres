@@ -7,7 +7,7 @@
 }
 
 body{
-background: #4070f4;
+background: #646464;
 }
 .wrapper{
     margin: 50px;
@@ -35,14 +35,14 @@ background: #4070f4;
 .add-box .icon{
     height: 78px;
     width: 78px;
-    color: #4070f4;
+    color: #000;
     font-size: 40px;
     border-radius: 50%;
     justify-content: center;
-    border: 2px dashed #4070f4;
+    border: 2px dashed #000;
 }
 .add-box p{
-    color: #4070f4;
+    color: #000;
     font-weight: 500;
     margin-top: 20px;
 }
