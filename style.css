@@ -7,7 +7,7 @@
 }
 
 body{
-background: #edebe6;
+background: #4070f4;
 }
 .wrapper{
     margin: 50px;
@@ -35,14 +35,14 @@ background: #edebe6;
 .add-box .icon{
     height: 78px;
     width: 78px;
-    color: #6e6460;
+    color: #4070f4;
     font-size: 40px;
     border-radius: 50%;
     justify-content: center;
-    border: 2px dashed #6e6460;
+    border: 2px dashed #4070f4;
 }
 .add-box p{
-    color: #6e6460;
+    color: #4070f4;
     font-weight: 500;
     margin-top: 20px;
 }
@@ -187,9 +187,9 @@ form .row label{
     height: 50px;
     border: none;
     outline: none;
-    color: #000;
+    color: #fff;
     cursor: pointer;
     font-size: 17px;
     border-radius: 4px;
-    background: #a1a1a1;
+    background: #4070f4;
 }
