@@ -1,7 +1,6 @@
 # NotesAres - Web Notepad
 
-![image](https://github.com/NotesAres/NotesAres.github.io/assets/141374250/e305300c-8ec4-45e5-8c25-fe1a81d32505)
-
+![image](https://github.com/ThiagoJMartins/NotesAres/assets/133309154/73cbe623-d0c7-49fc-8a32-4b45a680658e)
 
 ## Description
 
