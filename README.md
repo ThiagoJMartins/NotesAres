@@ -12,10 +12,6 @@ Here are some screenshots of the website:
 
 ![image](https://github.com/ThiagoJMartins/NotesAres/assets/133309154/73cbe623-d0c7-49fc-8a32-4b45a680658e)
 
-## Description
-
-NotesAres is a web notepad developed by AresWebDevelopment as an initial project in web development using JavaScript, HTML, and CSS. This application allows you to take and save notes quickly and easily.
-
 ## Installation
 
 If you want to try the notepad locally, follow these steps:
