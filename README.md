@@ -1,5 +1,15 @@
 # NotesAres - Web Notepad
 
+![Full Logo](https://github.com/ThiagoJMartins/NotesAres/assets/133309154/b45145fc-10fb-4970-862b-4e8186e6f15f)
+
+## Description
+
+NotesAres is a web notepad developed by AresWebDevelopment as an initial project in web development using JavaScript, HTML, and CSS. This application allows you to take and save notes quickly and easily.
+
+## Screenshots
+
+Here are some screenshots of the website:
+
 ![image](https://github.com/ThiagoJMartins/NotesAres/assets/133309154/73cbe623-d0c7-49fc-8a32-4b45a680658e)
 
 ## Description
@@ -10,12 +20,12 @@ NotesAres is a web notepad developed by AresWebDevelopment as an initial project
 
 If you want to try the notepad locally, follow these steps:
 
-1. Clone this repository.
+1. Clone the repository: `git clone https://github.com/ThiagoJMartins/NotesAres.git`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
 
-To use the notepad, simply visit [https://notesAres.github.io](https://notesAres.github.io) and start taking your notes. You can also edit and delete notes as needed.
+To use the notepad, simply visit [https://notesAres.netlify.app](https://notesAres.netlify.app) and start taking your notes. You can also edit and delete notes as needed.
 
 ## Technologies Used
 
@@ -34,6 +44,10 @@ Thank you for considering contributing to NotesAres! If you wish to collaborate,
 3. Make your changes and commit: `git commit -m 'Add new feature'`.
 4. Push the branch: `git push origin new-feature`.
 5. Open a pull request to the main branch of the repository.
+
+## Credits
+
+- AresWebDevelopment (me) - [GitHub](https://github.com/ThiagoJMartins)
 
 ## Contact
 
